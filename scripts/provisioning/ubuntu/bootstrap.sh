@@ -23,7 +23,7 @@
 
 LTTNG_DEPS=(build-essential automake autoconf libtool perl python3 python3-dev \
             libglib2.0-dev libpopt-dev uuid-dev libc6-dev swig flex bison \
-            libxml2)
+            libxml2-dev)
 
 DEV_PKGS=(emacs23-nox git)
 
