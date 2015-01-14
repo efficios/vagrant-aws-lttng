@@ -22,7 +22,8 @@
 # CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 LTTNG_DEPS=(build-essential automake autoconf libtool perl python3 python3-dev \
-            libglib2.0-dev libpopt-dev uuid-dev libc6-dev swig flex bison)
+            libglib2.0-dev libpopt-dev uuid-dev libc6-dev swig flex bison \
+            libxml2)
 
 DEV_PKGS=(emacs23-nox git)
 
